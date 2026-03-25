@@ -1,4 +1,4 @@
-# flutter_based_lloyalty_card_storage_app
+# loyalty_card_storage_app
 
 A new Flutter project.
 
