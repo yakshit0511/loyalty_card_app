@@ -90,7 +90,7 @@ class MyApp extends StatelessWidget {
                 fontSize: 22,
               ),
             ),
-            cardTheme: CardTheme(
+            cardTheme: CardThemeData(
               shape: RoundedRectangleBorder(
                 borderRadius: BorderRadius.circular(20),
               ),
